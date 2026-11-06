@@ -4,6 +4,8 @@ DSH Web 插件：在设置里增加「会话清理」页，**真正删除归档�
 
 入口：设置面板 → 左侧导航「会话清理」。
 
+![会话清理设置页](assets/session-purge.png)
+
 ## 安装
 
 需要已安装 DSH（Desktop 或 Web profile 均可）。
