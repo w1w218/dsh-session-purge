@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session purge",
+    "description": "Permanently deletes archived sessions and reclaims attachment objects no remaining session references."
+  }
+}
