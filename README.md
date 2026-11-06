@@ -11,7 +11,7 @@ DSH Web 插件：在设置里增加「会话清理」页，**真正删除归档�
 ```bash
 git clone https://github.com/w1w218/dsh-session-purge.git
 cd dsh-session-purge
-dsh plugin --profile <profile> add "$(pwd)"
+dsh plugin --profile <profile> add .
 ```
 
 把 `<profile>` 换成你的 profile 名（Desktop 默认是 `desktop`，Web 默认是 `web`）。也可以不用命令行：在 DSH 的插件管理器里选择「安装本地 bundle」，指向这个目录。
